@@ -1,4 +1,4 @@
-# Intern-training #JavScript-plan
+# Intern-training #JavScript
 ## Overview
 Design a static blog page interface, display information related to marketing, sales and product market information
 ## AUTHOR
@@ -33,7 +33,8 @@ Design a static blog page interface, display information related to marketing, s
 - Async and Await
 - Variables scope
 - Conclusion
-### [ES6(1day)](http://es6-features.org/)
+### ES6(1day)
+- [es6-features](http://es6-features.org/)
 ### DOM manipulation (2 days)
 - [Introduction]()
 - [Querying/Modifying DOM]()
